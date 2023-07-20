@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seali-rgb
 - 👀 I’m interested in FPGA/digital design/embedded systems.
-- 🌱 I’m currently an embeded sytem engineer
+- 🌱 I’m currently an fpga isp engineer
 - 💞️ I’m looking to collaborate on networking/image processing
 - 📫 How to reach me: shen-lee@outlook.com
 
